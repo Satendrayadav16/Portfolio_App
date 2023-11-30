@@ -1,3 +1,3 @@
 # Portfolio
 
-<!-- LINK: https://satendrayadav.netlify.app/ -->
+LINK: https://satendrayadav.netlify.app/
