@@ -1,6 +1,6 @@
 # Portfolio
 
-LINK: https://satendrayadav.netlify.app/
+LINK: https://satendrayadav.com.np/
 
 ## Project Setup
 To create Vite App from Scratch, run:
