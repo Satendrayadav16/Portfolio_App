@@ -41,7 +41,7 @@ const Resume = () => {
                   Nep Innovation Technology Pvt. Ltd.
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  December 2022 - September 2023
+                  March 2022 - September 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   As a Frontend developer, i was responsible for development of reusable component and it's integration. The main
@@ -49,6 +49,25 @@ const Resume = () => {
                   I have a strong background in responsive web design, ensuring seamless user experiences across various devices.
                   I do have experience in state management using Redux that empowers me to efficiently handle complex data flows
                   within applications and have knowledge of Redux-Saga for Redux side-effect manager.
+                </p>
+              </div>
+
+              <div className=" flex flex-col mt-1 gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Software Developer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Navya Advisors Pvt. Ltd.
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  September 2023 - Present
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                  As a Software developer, i was responsible for development of reusable component and it's integration. The main
+                  task that i worked was implementation of Redux and guiding the juniors developer and code review.
+                  I have a strong background in responsive web design, ensuring seamless user experiences across various devices.
+                  I do have experience in state management using Redux and Zustand that empowers me to efficiently handle complex data flows
+                  within applications and have knowledge of RTK and Tanstack Query for Redux API Management.
                 </p>
               </div>
             </div>

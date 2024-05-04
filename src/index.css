@@ -2,7 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500;600;700&display=swap');
 
-/* @import url('https: //fonts.googleapis.com/css2?family=Love+Light:wght@400;700&display=swap'); */
 
 @tailwind base;
 @tailwind components;
@@ -15,13 +14,14 @@
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
   font-family: 'Josefin Sans', sans-serif;
-  font-family: 'Love Light', sans-serif;
+  /* font-family: 'Love Light', sans-serif; */
   transition: all 0.2s ease;
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -ms-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
 }
+
 html {
   overflow-x: hidden !important;
   scroll-behavior: smooth;

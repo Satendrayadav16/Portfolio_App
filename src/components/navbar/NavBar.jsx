@@ -51,18 +51,25 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
 
   return (
     <div
-      className={`w-full mx-auto  fixed top-0 py-5 sm:py-4 z-30 ${
-        scrollPosition > 0 ? `bg-white shadow-md` : "bg-transparent"
-      } `}
+      className={`w-full mx-auto  fixed top-0 py-5 sm:py-4 z-30 ${scrollPosition > 0 ? `bg-white shadow-md` : "bg-transparent"
+        } `}
     >
       <nav className=" container m-auto flex items-center justify-between">
         <div data-aos="fade-down" className="logo">
           <Link
             onClick={() => window.scrollTo(0, 0)}
             to="/"
-            className="text-3xl font-bold sm:text-3xl Love Light"
+            className="text-3xl font-bold sm:text-3xl"
+            style={{
+              fontFamily: '"Love Light", cursive',
+              color: "red",
+              fontSize: "3rem",
+              // fontSize: { sm: "2rem", md: "1rem", lg: "3rem" },
+              fontWeight: 500,
+              fontStyle: "normal"
+            }}
           >
-            Satendra Yadav
+            {`<Satendra Yadav />`}
           </Link>
         </div>
         <div
@@ -78,9 +85,8 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
           </button>
 
           <ul
-            className={`flex items-center space-x-11 ${
-              !isOpen ? "md:flex" : "md:right-[0%]"
-            } md:flex-col md:absolute m-auto md:top-0 md:right-[-100%] md:w-[78%] md:h-screen md:bg-white `}
+            className={`flex items-center space-x-11 ${!isOpen ? "md:flex" : "md:right-[0%]"
+              } md:flex-col md:absolute m-auto md:top-0 md:right-[-100%] md:w-[78%] md:h-screen md:bg-white `}
           >
             {/* Use a button tag for better accessibility */}
             <button
@@ -97,9 +103,8 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
                 <a
                   onClick={() => toggleNav(item.name)}
                   href={`#${item.name}`}
-                  className={`uppercase cursor-pointer text-black hover:text-yellow-600 font-bold ${
-                    item.name === activeIndex ? "text-yellow-600" : ""
-                  }`}
+                  className={`uppercase cursor-pointer text-black hover:text-yellow-600 font-bold ${item.name === activeIndex ? "text-yellow-600" : ""
+                    }`}
                 >
                   {item.name}
                 </a>
