@@ -44,9 +44,11 @@ const Resume = () => {
                   December 2022 - September 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  As a Frontend developer, i was responsible for development of reusable component and it's integration.
+                  As a Frontend developer, i was responsible for development of reusable component and it's integration. The main
+                  task that i worked was implementation of Redux-Saga for side effects manager and API management and integration.
                   I have a strong background in responsive web design, ensuring seamless user experiences across various devices.
-                  I do have experience in state management using Redux that empowers me to efficiently handle complex data flows within applications and have knowledge of Redux-Saga for Redux side-effect manager. 
+                  I do have experience in state management using Redux that empowers me to efficiently handle complex data flows
+                  within applications and have knowledge of Redux-Saga for Redux side-effect manager.
                 </p>
               </div>
             </div>
@@ -79,12 +81,15 @@ const Resume = () => {
                   2017-2022
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+
+                  In 2022, after five years of rigorous study, I completed my Bachelor of Engineering (B.E.)
+                  in Computer Engineering, a program that spanned from 2017. This course provided a
+                  comprehensive education in both theoretical and practical aspects of computer engineering,
+                  encompassing subjects such as computer architecture, software development, network design,
+                  and data structures. The program was designed to equip students with the skills needed to
+                  innovate and adapt in the fast-evolving field of technology. During this time, I also engaged
+                  in various projects and internships that enhanced my understanding and application of computer
+                  engineering principles in real-world scenarios.
                 </p>
               </div>
             </div>
