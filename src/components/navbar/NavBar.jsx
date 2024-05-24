@@ -111,7 +111,7 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
               </li>
             ))}
             <a
-              href="https://www.linkedin.com/in/satendra-yadav-45a0671ab/"
+              href="https://www.linkedin.com/in/satendrayadav16/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-black text-[1rem] text-white px-8 py-2 rounded-lg font-bold hover:text-yellow-400 md:m-5 md:block md:mx-auto md:w-fit lg:px-3"
