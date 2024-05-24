@@ -46,7 +46,7 @@ const Hero = () => {
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
             <a
-              href="https://www.linkedin.com/in/satendra-yadav-45a0671ab/"
+              href="https://www.linkedin.com/in/satendrayadav16/"
               target="_blank"
               rel="noopener noreferrer"
               className=" bg-black text-[1rem] text-white px-10 py-2 sm:px-8 rounded-lg font-bold  hover:text-yellow-500"
@@ -70,7 +70,7 @@ const Hero = () => {
               className=" flex gap-5"
             >
               <li>
-                <a 
+                <a
                   href="https://github.com/Satendrayadav16"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -80,8 +80,8 @@ const Hero = () => {
                 </a>
               </li>
               <li>
-                <a 
-                  href="https://www.linkedin.com/in/satendra-yadav-45a0671ab/"
+                <a
+                  href="https://www.linkedin.com/in/satendrayadav16/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -90,7 +90,7 @@ const Hero = () => {
                 </a>
               </li>
               <li>
-                <a 
+                <a
                   href="https://www.facebook.com/satendra.16/"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -117,13 +117,13 @@ const Hero = () => {
         <div className="right  top-5 flex-1 flex items-center justify-center md:items-end sm:items-end">
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
             <img
-            data-aos="fade-up"
-              className="h-[80%] w-full object-cover md:h-[85%] md:m-auto sm:m-0 rounded-full"              
+              data-aos="fade-up"
+              className="h-[80%] w-full object-cover md:h-[85%] md:m-auto sm:m-0 rounded-full"
               src='https://i.postimg.cc/ZK6LNgK4/profile.jpg'
               alt="mine"
             />
             <div className=" absolute bottom-10 md:bottom-3 right-8 md:right-2">
-              <div data-aos="zoom-in" data-aos-duration="1000"  className=" relative cursor-pointer">
+              <div data-aos="zoom-in" data-aos-duration="1000" className=" relative cursor-pointer">
                 <img
                   className=" w-[135px] md:w-[90px] circle-text"
                   src="https://i.postimg.cc/QMGfBTTY/tag.png"
