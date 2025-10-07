@@ -35,13 +35,13 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Frontend Developer
+                  Associate Frontend Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
                   Nep Innovation Technology Pvt. Ltd.
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  March 2022 - September 2023
+                  January 2022 - October 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   As a Frontend developer, i was responsible for development of reusable component and it's integration. The main
@@ -54,13 +54,13 @@ const Resume = () => {
 
               <div className=" flex flex-col mt-1 gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                  Mid-level Software Engineer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
                   Navya Advisors Pvt. Ltd.
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  September 2023 - Present
+                  November 2023 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   As a Software developer, i was responsible for development of reusable component and it's integration. The main
