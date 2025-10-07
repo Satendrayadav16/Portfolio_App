@@ -40,7 +40,7 @@ const Footer = () => {
           </a>
         </div>
         <div className="sm:text-[12px]">
-          | Copyright &copy; All rights reserved by <span>2023 Satendra Yadav </span>
+          | Copyright &copy; 2023 All rights reserved by <span> Satendra Yadav </span>
           <a href="#"></a> |
         </div>
       </div>
