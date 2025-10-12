@@ -35,6 +35,41 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Mid-level Software Engineer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Navya Advisors Pvt. Ltd.
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  November 2023 - Present
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                  As a Software developer, i was responsible for development of reusable component and it's integration. The main
+                  task that i worked was implementation of Redux and guiding the juniors developer and code review.
+                  I have a strong background in responsive web design, ensuring seamless user experiences across various devices.
+                  I do have experience in state management using Redux and Zustand that empowers me to efficiently handle complex data flows
+                  within applications and have knowledge of RTK and Tanstack Query for Redux API Management.
+                </p>
+              </div>
+
+              <div className=" flex flex-col gap-1 mt-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  Mid-level Software Engineer
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Luminr Co.
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  September 2024 - January 2025
+                </span>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500">
+                  As a Software developer, i was responsible for development of reusable component and it's integration. The main achievement on this journey was completion and deployment of
+                  <strong> CAAN : User Portal web app.</strong>
+                </p>
+              </div>
+
+              <div className=" flex flex-col gap-1 mt-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
                   Associate Frontend Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
@@ -52,28 +87,11 @@ const Resume = () => {
                 </p>
               </div>
 
-              <div className=" flex flex-col mt-1 gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
-                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Mid-level Software Engineer
-                </h1>
-                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Navya Advisors Pvt. Ltd.
-                </span>
-                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  November 2023 - Present
-                </span>
-                <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  As a Software developer, i was responsible for development of reusable component and it's integration. The main
-                  task that i worked was implementation of Redux and guiding the juniors developer and code review.
-                  I have a strong background in responsive web design, ensuring seamless user experiences across various devices.
-                  I do have experience in state management using Redux and Zustand that empowers me to efficiently handle complex data flows
-                  within applications and have knowledge of RTK and Tanstack Query for Redux API Management.
-                </p>
-              </div>
+
             </div>
           </fieldset>
         </div>
-        <div className="right flex-1 flex items-center justify-center">
+        <div className="right flex-1 flex justify-center">
           <fieldset
             data-aos="zoom-in"
             className=" w-[80%] p-5 py-12 sm:py-8 sm:w-full sm:p-2"
@@ -88,8 +106,7 @@ const Resume = () => {
                 <div className="line w-[230px] bg-gray-300 h-[2px] sm:w-[250px]"></div>
                 <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
               </div>
-              {/* design */}
-              <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+              <div className="flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
                   BE, Computer Engineering
                 </h1>
@@ -111,6 +128,27 @@ const Resume = () => {
                   engineering principles in real-world scenarios.
                 </p>
               </div>
+              {/* design */}
+              <div className=" flex flex-col gap-1 mt-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
+                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
+                  High School(+2), HSEB
+                </h1>
+                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
+                  Capital College and Rearch Center(CCRC)
+                </span>
+                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
+                  2014-2016
+                </span>
+                <p className=" text-[.9rem] text-justify text-gray-500">
+
+                  In 2015, after 2 years of rigorous study, I completed my High School education under the
+                  Higher Secondary Education Board (HSEB) at Capital College and Research Center (CCRC).
+                  This program provided a solid foundation in various subjects, preparing me for higher education.
+                  During these two years, my major subjects included Science (Biology as major subject) along with
+                  Mathematics, Physics, Chemistry, and English.
+                </p>
+              </div>
+
             </div>
           </fieldset>
         </div>

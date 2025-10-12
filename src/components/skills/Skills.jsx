@@ -16,6 +16,8 @@ import { SiMui } from "react-icons/si";
 import { GrCode } from "react-icons/gr";
 import { FaReact } from "react-icons/fa";
 import { IoLogoNodejs } from "react-icons/io";
+import { TbBrandReactNative } from "react-icons/tb";
+
 
 const Skills = ({ darkMode }) => {
   return (
@@ -56,6 +58,11 @@ const Skills = ({ darkMode }) => {
                   name={"Material UI"}
                   value={80}
                 />
+                <ProgressBar
+                  logo={<TbBrandReactNative />}
+                  name={"React Native"}
+                  value={50}
+                />
               </div>
             </div>
           </div>
@@ -77,7 +84,7 @@ const Skills = ({ darkMode }) => {
               <SkillBox
                 className=""
                 logo={
-                  <SiSolidity  />
+                  <SiSolidity />
                 }
                 black={"white"}
                 white={"black"}
@@ -88,7 +95,7 @@ const Skills = ({ darkMode }) => {
               <SkillBox
                 className=""
                 logo={
-                  <SiBlockchaindotcom/>
+                  <SiBlockchaindotcom />
                 }
                 black={"black"}
                 white={"white"}
@@ -103,13 +110,13 @@ const Skills = ({ darkMode }) => {
               <SkillBox
                 className=""
                 logo={
-                  <GrCode/>
+                  <FaReact />
                 }
                 black={"black"}
                 white={"white"}
-                skill={"C++"}
+                skill={"React Native"}
               />
-              
+
             </div>
           </div>
         </div>
