@@ -38,7 +38,7 @@ const Resume = () => {
                   Mid-level Software Engineer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Navya Advisors Pvt. Ltd.
+                  Navya Advisors Pvt. Ltd. (Kholagal Marg, Lazimpat, Kathmandu)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   November 2023 - Present
@@ -57,7 +57,7 @@ const Resume = () => {
                   Mid-level Software Engineer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Luminr Co.
+                  Luminr Co. (Kaldhara, Kathmandu)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   September 2024 - January 2025
@@ -73,7 +73,7 @@ const Resume = () => {
                   Associate Frontend Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Nep Innovation Technology Pvt. Ltd.
+                  Nep Innovation Technology Pvt. Ltd. (Buddhanagar (Sankhamul), Kathmandu)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   January 2022 - October 2023
@@ -111,7 +111,7 @@ const Resume = () => {
                   BE, Computer Engineering
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Nepal College of Information Technology
+                  Nepal College of Information Technology (Balkumari, Lalitpur)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   2017-2022
@@ -134,7 +134,7 @@ const Resume = () => {
                   High School(+2), HSEB
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Capital College and Rearch Center(CCRC)
+                  Capital College and Rearch Center(CCRC) (Balkumari, Kathmandu)
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   2014-2016
